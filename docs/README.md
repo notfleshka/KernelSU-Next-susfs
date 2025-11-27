@@ -2,6 +2,7 @@
 
 ---
 
+
 <div align="center">
   <img src="/assets/kernelsu_next.png" width="96" alt="KernelSU Next Logo">
 
